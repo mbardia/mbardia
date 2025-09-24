@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**mbardia/mbardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Manasvi 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+I’m a Junior studying Computer Science at the University of Michigan who loves building **end-to-end systems** — from scalable backends and databases to data pipelines and ML-powered features. I’m passionate about using technology to turn ideas into impactful real-world solutions.  
+
+Outside of code, I thrive in collaborative environments, enjoy working with diverse teams, and love tackling problems with a builder’s mindset.  
+
+---
+
+## 🛠 Skills  
+**Languages:** Python, Java, SQL, C++, JavaScript  
+**Frameworks:** Flask, React, Node.js, Express  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Other:** Git, Docker, REST APIs, System Design 
+
+---
+
