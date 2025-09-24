@@ -12,8 +12,28 @@ Outside of code, I thrive in collaborative environments, enjoy working with dive
 ## 🛠 Skills  
 **Languages:** Python, Java, SQL, C++, JavaScript  
 **Frameworks:** Flask, React, Node.js, Express  
-**Databases:** PostgreSQL, MySQL, MongoDB  
+**Databases:** PostgreSQL, Supabase
 **Other:** Git, Docker, REST APIs, System Design 
+
+---
+## 📚 Fun Classes I've Taken  
+- Machine Learning  
+- Computer Networks  
+- Intelligent Systems  
+- Data Structures & Algorithms  
+- Computer Architecture  
+- Linear Algebra  
+
+---
+
+## 🚀 Projects  
+- **VisionBoard (React, Supabase, Tailwind, Vercel):** full-stack collage & goal-tracking app with secure auth and real-time sync.  
+- **Splitwise Clone (Flutter, PostgreSQL, Vercel):** expense-sharing app with cross-platform UI and optimized balance tracking.  
+- **Adaptive Video Streaming via CDN (C++, Python):** HTTP proxy & load balancer with adaptive bitrate streaming and dynamic routing.  
+- **BetterReads (Python, Hugging Face, ChromaDB):** hybrid recommendation engine with NLP embeddings + collaborative filtering.  
+- **Linker & Simulator (C):** implemented assembler, linker, and pipeline simulator for custom ISA.  
+- **Architecture Pipeline (C):** built a 5-stage pipelined processor with hazard detection and forwarding.
+- **Financial Stock Analysis Platform (Flask, PostgreSQL, React):** web app for ATH detection, market cap classification, and sector insights using Yahoo Finance + Screener APIs.  
 
 ---
 
