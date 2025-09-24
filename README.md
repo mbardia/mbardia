@@ -34,6 +34,6 @@ Outside of code, I thrive in collaborative environments, enjoy working with dive
 - **Linker & Simulator (C):** implemented assembler, linker, and pipeline simulator for custom ISA.  
 - **Architecture Pipeline (C):** built a 5-stage pipelined processor with hazard detection and forwarding.
 - **Financial Stock Analysis Platform (Flask, PostgreSQL, React):** web app for ATH detection, market cap classification, and sector insights using Yahoo Finance + Screener APIs.  
-
+- **Logistic Kernel Regression (Python, scikit-learn):** built logistic + kernelized regression models on patient hospital datasets, applied regularization and cross-validation, and evaluated with AUROC to study tradeoffs in clinical prediction accuracy.  
 ---
 
