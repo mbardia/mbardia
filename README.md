@@ -23,7 +23,9 @@ Outside of code, I thrive in collaborative environments, enjoy working with dive
 - Intelligent Systems  
 - Data Structures & Algorithms  
 - Computer Architecture  
-- Linear Algebra  
+- Linear Algebra
+- Probability
+- AI systems
 
 ---
 
