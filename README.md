@@ -3,14 +3,11 @@
 # Hi, I'm Manasvi 👋  
 
 ## 🌟 About Me  
-I’m a Junior studying Computer Science at the University of Michigan who loves building **end-to-end systems** — from scalable backends and databases to data pipelines and ML-powered features. I’m passionate about using technology to turn ideas into impactful real-world solutions.  
-
-Outside of code, I thrive in collaborative environments, enjoy working with diverse teams, and love tackling problems with a builder’s mindset.  
-
+I’m a Junior studying Computer Science at the University of Michigan, passionate about building intelligent systems at the intersection of AI, distributed systems, and scalable software infrastructure. In my free time, I love reading, dancing, and trying new foods.
 ---
 
 ## 🛠 Skills  
-**Languages:** Python, Java, SQL, C++, JavaScript  
+**Languages:** Go, Python, Java, SQL, C++, JavaScript  
 **Frameworks:** Flask, React, Node.js, Express  
 **Databases:** PostgreSQL, Supabase
 **Other:** Git, Docker, REST APIs, System Design 
